@@ -25,33 +25,33 @@ Clustered column chart showcasing the income of drivers and buddies classified b
 Overview of Goods Transported:
 Clustered bar chart showcasing the count of goods by type being transported.
 
-**Actionable Insights:**
+**Actionable Insights**
 
-Close Range Income Opportunity:
+Close Range Income Opportunity
 Insight: Identifying that close-range trips provide income opportunities for both drivers and buddies.
 Actionable Implication: Focus on maximizing close-range trips to capitalize on income opportunities.
 
-Cost Comparison for Different Ranges:
+Cost Comparison for Different Ranges
 Insight: Discovering that both far and regular range trips cost as little as half of close-range trips.
 Actionable Implication: Consider optimizing routes or adjusting pricing strategies to leverage cost advantages for far and regular range trips.
 
-Monthly Cost Variations:
+Monthly Cost Variations
 Insight: Recognizing that January, November, and December incur the highest costs due to fully close-range transportation.
 Actionable Implication: Plan for increased expenses during these months and explore strategies to mitigate costs during peak periods.
 
-Profitable Destinations with Low Expenses:
+Profitable Destinations with Low Expenses
 Insight: Identifying Suies and Top Glove destinations as providing the best income opportunities while incurring lower expenses for far-range trips.
 Actionable Implication: Focus on increasing trips to Suies and Top Glove destinations and explore ways to replicate successful strategies in other locations.
 
-Inefficient Destinations:
+Inefficient Destinations
 Insight: Recognizing that Gaidec and Safeskin destinations are the least efficient, incurring the most expenses for close-range trips.
 Actionable Implication: Evaluate the viability of continuing operations to these destinations and explore cost-cutting or efficiency improvement measures.
 
-Profitable Far Range Shipping for Specific Goods:
+Profitable Far Range Shipping for Specific Goods
 Insight: Discovering that woodpellet shipping in far-range trips provides the best opportunity for income.
 Actionable Implication: Focus on expanding operations related to woodpellet shipping in far-range trips.
 
-Efficiency of One-Way Trips:
+Efficiency of One-Way Trips
 Insight: Observing that one-way trips are more efficient, costing less regardless of distance.
 Actionable Implication: Consider optimizing transportation routes to prioritize one-way trips, potentially reducing expenses.
 
