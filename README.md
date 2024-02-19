@@ -37,8 +37,8 @@ This Excel data visualization delves into the analysis of fleet management trans
 
 **Close Range Income Opportunity**
 
- - Insight: Identifying that close-range trips provide income opportunities for both drivers and buddies.
- - Actionable Implication: Focus on maximizing close-range trips to capitalize on income opportunities.
+ - Insight - Identifying that close-range trips provide income opportunities for both drivers and buddies.
+ - Actionable Implication - Focus on maximizing close-range trips to capitalize on income opportunities.
 
 **Cost Comparison for Different Ranges**
 
