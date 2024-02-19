@@ -9,22 +9,22 @@ This Excel data visualization delves into the analysis of fleet management trans
 **Overview of Driver & Buddy's Total Expenses, Salaries, and Wages**
 
  - Doughnut chart showcasing the total salaries and wages.
- - 
+
 
 **Overview of Expenses by Month**
 
  - Clustered column chart showcasing the total expenses for each month.
- - 
+
 
 **Overview of Driver and Buddy's Respected Wages and Salaries**
 
  - Breakdown of Distance, Return, and One-way Trips.
- - 
+
 
 **Overview of Trips by Month**
 
  - Stacked line chart showcasing the count of trips for each month.
- - 
+
 
 **Overview of Total Trips and Transportation Hired**
 
@@ -33,7 +33,7 @@ This Excel data visualization delves into the analysis of fleet management trans
 
  - Pie chart showcasing the classified types of trips.
  - Clustered column chart showcasing the income of drivers and buddies classified by trip type.
- - 
+
 
 **Overview of Goods Transported**
 
