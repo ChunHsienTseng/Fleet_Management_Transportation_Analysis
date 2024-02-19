@@ -28,6 +28,8 @@ This Excel data visualization delves into the analysis of fleet management trans
 
 **Overview of Total Trips and Transportation Hired**
 
+ - Total count of total trips and transportation hired.
+
 
 **Overview of the Classified Trips and Income**
 
