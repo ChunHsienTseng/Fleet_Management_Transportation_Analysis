@@ -18,7 +18,7 @@ This Excel data visualization delves into the analysis of fleet management trans
 
 **Overview of Driver and Buddy's Respected Wages and Salaries**
 
- - Breakdown of Distance, Return, and One-way Trips.
+ - Breakdown of distance, return, and one-way Trips.
 
 
 **Overview of Trips by Month**
