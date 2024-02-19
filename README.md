@@ -8,7 +8,7 @@ This Excel data visualization delves into the analysis of fleet management trans
 
 **Overview of Driver & Buddy's Total Expenses, Salaries, and Wages**
 
-Doughnut chart showcasing the total salaries and wages.
+ - Doughnut chart showcasing the total salaries and wages.
 
 **Overview of Expenses by Month**
 
