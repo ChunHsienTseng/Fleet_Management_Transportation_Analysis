@@ -62,8 +62,8 @@ This Excel data visualization delves into the analysis of fleet management trans
 
 **Profitable Far Range Shipping for Specific Goods**
 
- - Insight: Discovering that woodpellet shipping in far-range trips provides the best opportunity for income.
- - Actionable Implication: Focus on expanding operations related to woodpellet shipping in far-range trips.
+ - Insight - Discovering that woodpellet shipping in far-range trips provides the best opportunity for income.
+ - Actionable Implication - Focus on expanding operations related to woodpellet shipping in far-range trips.
 
 **Efficiency of One-Way Trips**
 
