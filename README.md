@@ -12,35 +12,38 @@ This Excel data visualization delves into the analysis of fleet management trans
 
 **Overview of Expenses by Month**
 
-Clustered column chart showcasing the total expenses for each month.
+ - Clustered column chart showcasing the total expenses for each month.
 
 **Overview of Driver and Buddy's Respected Wages and Salaries**
-Breakdown of Distance, Return, and One-way Trips.
+
+ - Breakdown of Distance, Return, and One-way Trips.
 
 **Overview of Trips by Month**
 
-Stacked line chart showcasing the count of trips for each month.
+ - Stacked line chart showcasing the count of trips for each month.
 
 **Overview of Total Trips and Transportation Hired**
 
 **Overview of the Classified Trips and Income**
-Pie chart showcasing the classified types of trips.
-Clustered column chart showcasing the income of drivers and buddies classified by trip type.
+
+ - Pie chart showcasing the classified types of trips.
+ - Clustered column chart showcasing the income of drivers and buddies classified by trip type.
 
 **Overview of Goods Transported**
-Clustered bar chart showcasing the count of goods by type being transported.
+
+ - Clustered bar chart showcasing the count of goods by type being transported.
 
 ## Actionable Insights
 
 **Close Range Income Opportunity**
 
-Insight: Identifying that close-range trips provide income opportunities for both drivers and buddies.
-Actionable Implication: Focus on maximizing close-range trips to capitalize on income opportunities.
+ - Insight: Identifying that close-range trips provide income opportunities for both drivers and buddies.
+ - Actionable Implication: Focus on maximizing close-range trips to capitalize on income opportunities.
 
 **Cost Comparison for Different Ranges**
 
-Insight: Discovering that both far and regular range trips cost as little as half of close-range trips.
-Actionable Implication: Consider optimizing routes or adjusting pricing strategies to leverage cost advantages for far and regular range trips.
+ - Insight: Discovering that both far and regular range trips cost as little as half of close-range trips.
+ - Actionable Implication: Consider optimizing routes or adjusting pricing strategies to leverage cost advantages for far and regular range trips.
 
 **Monthly Cost Variations**
 
