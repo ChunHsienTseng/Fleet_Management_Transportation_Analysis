@@ -74,12 +74,13 @@ This Excel data visualization delves into the analysis of fleet management trans
 
  - Filtering - Users can interactively filter to choose different analyses by driver, trip range, trip type and month.
 
-## Screenshots
-
- - https://imgur.com/a/g6WwoaR
 
 ## Data Sources
 
  - The visualization is based on the dataset collected from other level's.
+
+## Screenshots
+
+ - https://imgur.com/a/g6WwoaR
 
 
